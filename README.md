@@ -1,3 +1,5 @@
+*NOTE - This API is no longer hosted. The code provided in this repository can be repurposed and hosted.*
+
 # CRUDAPI
 A simple CRUD API for books.
 
